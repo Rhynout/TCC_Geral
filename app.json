@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Delta",
+    "slug": "Delta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./img/logo.png",
+    "splash": {
+      "image": "./img/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    }
+  }
+}
