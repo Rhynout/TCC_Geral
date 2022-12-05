@@ -5,7 +5,7 @@ import styles from '../css/Styles';
 export default function HomeScreen ({ navigation }) {
     return (
         <View>
-        <ScrollView>
+        <SafeAreaView style={styles.container8}>
     
             <ImageBackground source={require('../img/background.png')} style={styles.image_background}> 
         
@@ -13,7 +13,12 @@ export default function HomeScreen ({ navigation }) {
                 style={styles.image_logo}
                 source={require('../img/logo.png')}
             />
-        
+            <SafeAreaView style={styles.container0}>
+                <ScrollView>
+                <Text style={styles.desc}>Delta</Text>
+                <Text style={styles.desc2}>Seu aplicativo de monitoramento para irrigações.</Text>
+                </ScrollView>
+            </SafeAreaView>
             <TouchableOpacity 
             style={styles.btn_iniciar}
             onPress={() =>
@@ -27,25 +32,17 @@ export default function HomeScreen ({ navigation }) {
             <TouchableOpacity 
             style={styles.btn_creditos}
             onPress={() =>
-                navigation.navigate('Créditos')
+                navigation.navigate('Informações')
             }
             >
-            <Text style={styles.text1}>Créditos</Text>
+            <Text style={styles.text1}>Informações</Text>
             </TouchableOpacity>
         
-            <TouchableOpacity 
-            style={styles.btn_info}
-            onPress={() =>
-                navigation.navigate('Home')
-            }
-            >
-            <Text style={styles.text1}>?</Text>
-            </TouchableOpacity>
             </SafeAreaView>
         
             </ImageBackground> 
     
-        </ScrollView>
+        </SafeAreaView>
         </View>
     );
 };

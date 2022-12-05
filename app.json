@@ -2,7 +2,7 @@
   "expo": {
     "name": "Delta",
     "slug": "Delta",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -11,6 +11,9 @@
       "image": "./img/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#fff"
+    },
+    "android": {
+      "package": "com.rhynout.Delta"
     }
   }
 }

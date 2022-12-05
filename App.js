@@ -75,7 +75,7 @@ export default function App() {
             }}
           />
           <Stack.Screen 
-            name="Créditos" 
+            name="Informações" 
             component={CreditScreen} 
             options={{
 
