@@ -28,7 +28,7 @@ Após a leitura, a placa NodeMcu 8266 ativa, se necessário uma mini bomba d'ág
 
 ## Screenshots
 
-![preview](./github/previewTelaInicial.jpg)
+![preview](./github/previewTelaInicial.jpg widht=100)
 ![preview](./github/previewTelaCreditos.jpg)
 ![preview](./github/previewTelaOpcoes.jpg)
 ![preview](./github/previewTelaSensores.jpg)
