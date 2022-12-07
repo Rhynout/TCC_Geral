@@ -10,7 +10,7 @@ Nomeado de Delta, referente aos rios, o projeto buscava ir além de desenvolver 
 
 ## Funcionamento ⚙
 
-O projeto faz uso de dois sensores, o primeiro e o principal, é de Umidade do solo, quem analisa o solo e indica o quão úmido está. Já o segundo sensor corresponde ao de Temperatura e Umidade do Ar, que auxilia no funcionamento e na verifcação de parâmetros, como por exemplo, tempo muito seco ou presença de umidade em componentes eletrônicos.
+O projeto faz uso de dois sensores, o primeiro e o principal, é de Umidade do solo, quem analisa o solo e indica o quão úmido está. Já o segundo sensor corresponde ao de Temperatura e Umidade do Ar, que auxilia no funcionamento e na verifcação de parâmetros, como por exemplo, tempo muito seco ou presença de umidade em componentes eletrônicos.<br>
 Após a leitura, a placa NodeMcu 8266 ativa, se necessário uma mini bomba d'água e, faz o envio das informações para a plataforma [ThingSpeak](https://thingspeak.com/). Posteriormente, nosso aplicativo faz requisições para uma Api com chave criptografada, atualizando e exibindo as informações em um smartphone, tudo pela internet, podendo ser visto de qualquer lugar.
 
 ### 📝 Lições aprendidas
