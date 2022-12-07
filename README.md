@@ -26,6 +26,11 @@ Após a leitura, a placa NodeMcu 8266 ativa, se necessário uma mini bomba d'ág
 - Conexões via Api
 - Plataforma Gratuita ThingSpeak
 
+### 👤 Equipe
+- [Daniel Silva Souza]() - Criador do Design e desenvolvimento do App.
+- [Gabriel Victorino]() - Desenvolvimento do Hardware (Montagem e Conexão), conexão com a Api.
+- [Pedro Lucas Sampaio]() - Desenvolvimento do App (Telas em Geral, Gráficos).
+
 ## Screenshots
 
 ![preview](./github/previewTelaInicial.jpg)
