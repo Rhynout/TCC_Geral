@@ -1,6 +1,6 @@
 # Welcome to my project 👋
 
-![Logo](./github/previewLogo.png)
+<img width="4430" height="4430" alt="previewLogo" src="https://github.com/user-attachments/assets/2eba7252-802d-4474-a29f-fac15f3a63fa" />
 
 ## TCC - Sistema de Irrigação assistido via Web
 
@@ -33,9 +33,25 @@ Após a leitura, a placa NodeMcu 8266 ativa, se necessário uma mini bomba d'ág
 
 ## Screenshots
 
-![preview](./github/previewTelaInicial.jpg)
-![preview](./github/previewTelaCreditos.jpg)
-![preview](./github/previewTelaOpcoes.jpg)
-![preview](./github/previewTelaSensores.jpg)
-![preview](./github/previewTelaGraficos.jpg)
-![preview](./github/previewTelaPlataforma.jpg)
+![previewTelaInicial](https://github.com/user-attachments/assets/72cd5b3d-a6e5-4645-8ce3-557e0542cb94)
+
+---
+
+![previewTelaCreditos](https://github.com/user-attachments/assets/1f48bd05-f3b5-4386-a4c5-cc852ad5f03e)
+
+---
+
+![previewTelaOpcoes](https://github.com/user-attachments/assets/f74f179e-60a8-490e-92fb-c02cbc68176b)
+
+---
+
+![previewTelaSensores](https://github.com/user-attachments/assets/8ba029cf-22bb-4a0f-a8a7-477cf5ea4239)
+
+---
+
+![previewTelaGraficos](https://github.com/user-attachments/assets/38a1abbd-436c-4548-b036-4f3211f64283)
+
+---
+
+![previewTelaPlataforma](https://github.com/user-attachments/assets/0be196df-e892-42f1-b196-ca2ff22a86aa)
+
