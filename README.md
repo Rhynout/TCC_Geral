@@ -27,7 +27,7 @@ Após a leitura, a placa NodeMcu 8266 ativa, se necessário uma mini bomba d'ág
 - Plataforma Gratuita ThingSpeak
 
 ### 👤 Equipe
-- [Daniel Silva Souza](https://github.com/Rhynout) - Criador do Design e desenvolvimento do App.
+- [Daniel Silva Souza](https://github.com/danielslza) - Criador do Design e desenvolvimento do App.
 - [Gabriel Victorino](https://github.com/GabrielVictorino8266/) - Desenvolvimento do Hardware (Montagem e Conexão), conexão com a Api.
 - [Pedro Lucas Sampaio](https://github.com/iamdqrk) - Desenvolvimento do App (Telas em Geral, Gráficos).
 
